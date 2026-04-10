@@ -1,0 +1,10 @@
+Dataset used: diabetes_binary_5050split_health_indicators_BRFSS2015.csv
+Rows: 70,692
+Columns: 22
+
+Quick report notes
+- The dataset is perfectly balanced: No diabetes = 35,346, Diabetes = 35,346.
+- The strongest linear associations with diabetes are: GenHlth (0.41), HighBP (0.38), BMI (0.29), HighChol (0.29), Age (0.28).
+- Mean BMI rises from 27.77 in the non-diabetes group to 31.94 in the diabetes group.
+- Average general health score rises from 2.38 to 3.29; higher values indicate worse self-rated health.
+- High blood pressure is reported by 37.4% of the non-diabetes group versus 75.3% of the diabetes group.
