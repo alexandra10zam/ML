@@ -1,7 +1,6 @@
 # Dataset visualizations
 
 Run the visualization script to generate plots into the `figures/` folder.
-
 Usage:
 
 ```bash

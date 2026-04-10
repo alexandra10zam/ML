@@ -3,7 +3,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-
 DATA_PATH = "diabetes_binary_health_indicators_BRFSS2015.csv"
 OUTDIR = "figures"
 
